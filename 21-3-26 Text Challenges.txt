@@ -1,0 +1,113 @@
+#TEXT CHALLENGES
+
+1.
+Sentence:
+"OMG!!! this movie is sooo goooood 😍🔥"
+Issues: Slang (OMG), repeated letters, emojis, punctuation
+Preprocessing: Lowercase, remove emojis, reduce repeated letters
+
+2.
+Sentence:
+"u r amazing bro!!! keep it up 👍"
+Issues: Slang (u, r), informal language, emoji
+Preprocessing: Expand slang, remove emoji, lowercase
+
+3.
+Sentence:
+"I can'ttt believe this happened!!!!!"
+Issues: Repeated letters, extra punctuation
+Preprocessing: Normalize repeated letters, remove extra punctuation
+
+4.
+Sentence:
+"lol that was funny 😂😂😂"
+Issues: Slang (lol), repeated emojis
+Preprocessing: Remove emojis, expand slang
+
+5.
+Sentence:
+"Thisss is nottt correctt!!!"
+Issues: Typos (extra letters), punctuation
+Preprocessing: Spell correction, remove punctuation
+
+6.
+Sentence:
+"Visit my site: www.fakeurl.com� NOW!!!"
+Issues: URL, uppercase, punctuation
+Preprocessing: Remove URL, lowercase, remove punctuation
+
+7.
+Sentence:
+"hey!!! what's upppp???"
+Issues: Repeated letters, punctuation
+Preprocessing: Normalize letters, remove punctuation
+
+8.
+Sentence:
+"gud mrng frnd 😊 hv a nice day"
+Issues: Slang (gud, frnd, hv), emoji
+Preprocessing: Expand slang, remove emoji
+
+9.
+Sentence:
+"This product is $$$ totally worth it!!!"
+Issues: Special characters, punctuation
+Preprocessing: Remove symbols, punctuation
+
+10.
+Sentence:
+"Why r u late???????"
+Issues: Slang, repeated punctuation
+Preprocessing: Expand slang, normalize punctuation
+
+11.
+Sentence:
+"Besttt deal everrrr!!!! 💯💯"
+Issues: Repeated letters, emojis
+Preprocessing: Normalize text, remove emojis
+
+12.Sentence:
+"plzz send me the detials asap!!!"
+Issues: Typos (plzz, detials), slang (asap)
+Preprocessing: Spell correction, expand slang
+
+13.Sentence:
+"i LOOOVE this songgg 🎶"
+Issues: Case inconsistency, repeated letters, emoji
+Preprocessing: Lowercase, normalize letters, remove emoji
+
+14.Sentence:
+"brb, will text u later 😉"
+Issues: Slang (brb, u), emoji
+Preprocessing: Expand slang, remove emoji
+
+15.Sentence:
+"this is sooo boringggg....."
+Issues: Repeated letters, punctuation
+Preprocessing: Normalize letters, remove extra dots
+
+16.Sentence:
+"OMG i forgot my passwrod!!! 😭"
+Issues: Typo (passwrod), slang, emoji
+Preprocessing: Spell correction, remove emoji
+
+17.Sentence:
+"Check this out!!! 👉 https://abc.com�"
+Issues: URL, emoji, punctuation
+Preprocessing: Remove URL, remove emoji
+
+18.Sentence:
+"cant wait 4 the partyyyy 🎉"
+Issues: Slang (4), repeated letters, emoji
+Preprocessing: Convert numbers to words, normalize letters
+
+19.Sentence:
+"heyyy!!! long time no seeee 😄"
+Issues: Repeated letters, emoji
+Preprocessing: Normalize text, remove emoji
+
+20.Sentence:
+"dat was gr8 man!!! respecttt 🙌"
+Issues: Slang (dat, gr8), repeated letters, emoji
+Preprocessing: Expand slang, normalize letters
+

@@ -1,0 +1,31 @@
+#AI Around Me
+
+1. 📱 Google Maps
+Uses ML to analyze traffic data, past routes, and user behavior to predict the fastest route and estimated arrival time.
+
+2. 🎬 Netflix
+Recommends movies using ML models (like collaborative filtering) that learn from your watch history and similar users.
+
+3. 📧 Gmail
+Spam detection uses classification models trained on labeled emails to identify spam vs important messages.
+
+4. 🛒 Amazon
+Suggests products using recommendation systems based on your browsing, purchases, and similar customer behavior.
+
+5. 🎤 Google Assistant
+Uses speech recognition (deep learning) to convert voice to text and NLP models to understand and respond.
+
+6. 📸 Instagram
+Face detection, filters, and feed ranking use computer vision and ML models to personalize content.
+
+7. ⌨️ Gboard
+Predictive text uses language models trained on large text data to suggest next words while typing.
+
+8. 🎵 Spotify
+Recommends songs using ML by analyzing listening habits and patterns of similar users.
+
+9. 💳 Fraud Detection Systems
+ML models detect unusual transaction patterns and flag suspicious activities in real time.
+
+10. 🛍️ Flipkart
+Uses ML for search ranking and personalized recommendations based on user clicks and purchase history
