@@ -1,37 +1,37 @@
 1.Smart Attendance System
 Face detection can automatically mark attendance in schools or offices when a person enters the room.
-2.
-Security Surveillance
-Cameras can detect suspicious objects or unknown people and alert security staf
-3.f.
-Self-Driving Cars
-Object detection helps cars identify pedestrians, traffic signs, vehicles, and obstac
-4.les.
-Medical Assistance
-Detection systems can identify tumors, fractures, or abnormal patterns in medical i
-5.mages.
-Retail Store Monitoring
-Stores use object detection to track products on shelves and analyze customer
+
+2.Security Surveillance
+Cameras can detect suspicious objects or unknown people and alert security staff.
+
+3.Self-Driving Cars
+Object detection helps cars identify pedestrians, traffic signs, vehicles, and obstacles.
+
+4.Medical Assistance
+Detection systems can identify tumors, fractures, or abnormal patterns in medical images.
+
+5.Retail Store Monitoring
+Stores use object detection to track products on shelves and analyze customer movement.
 
 Security Surveillance System Using Object Detection
 
-Proble:m
-Traditional CCTV cameras only record videos and require humans to monitor them continuously. Suspicious activities may be missed due to human error
-.
-Proposed Solut:ion
-Develop an AI-powered surveillance system that can automatically detect suspicious objects or unauthorized persons in real ti
-me.
-How the System :W*orks
-CCTV camera captures live v*ideo.
-AI model analyzes each video 
-frame.
-The system d*etects:
-Unknown* persons
-Weapons or suspiciou*s objects
-Unauthor*ized entry
-Abandoned
- bags/items
-If suspicious activity *is detected:
-Alarm* is triggered
-Notification is sent to *security staff
-Screenshot/video is saved automatically movement
+Problem:
+Traditional CCTV cameras only record videos and require humans to monitor them continuously. Suspicious activities may be missed due to human error.
+
+Proposed Solution:
+Develop an AI-powered surveillance system that can automatically detect suspicious objects or unauthorized persons in real time.
+
+How the System Works:
+*CCTV camera captures live video.
+*AI model analyzes each video frame.
+
+The system detects:
+*Unknown persons
+*Weapons or suspiciou*s objects
+*Unauthorized entry
+*Abandoned bags/items.
+
+If suspicious activity is detected:
+*Alarm is triggered
+*Notification is sent to security staff
+*Screenshot/video is saved automatically.
