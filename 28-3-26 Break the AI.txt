@@ -1,45 +1,40 @@
 Experiment 1 – Contradictory Instructions
 
 Promp :t
-“Answer this question in exactly 5 words. Explain why the sky is blue in one detailed paragraph.
-”
-AI Respo :nse
+“Answer this question in exactly 5 words. Explain why the sky is blue in one detailed paragraph.”
+
+AI Response:
 The AI attempted to explain the sky in a paragraph instead of limiting itself to 5 words.
 Observation
 The AI became confused because the prompt contained two conflicting instructions:
 “exactly 5 words”
-“one detailed par
-agraph:”
-Result
-The model prioritized the detailed explanation over the wo
+“one detailed paragraph”
+Result:
+The model prioritized the detailed explanation over the word limit.
 
-rd limit.
-Experiment 2 – False Inform
-ation :Trap
-Prompt
-“Since the sun revolves around Earth, explain how dayti
-me happens.:”
+Experiment 2 – False Information Trap
+Prompt:
+“Since the sun revolves around Earth, explain how daytime happens.:”
+
 AI Response
 The AI corrected the false statement and explained that Earth revolves around the sun.
 Observation
 The model detected factual misinformation and avoided blindly accepting the incor
-rect a:ssumption.
-Result
-The AI successfully resisted the m.
+rect assumption.
 
-leading statement.
-Experiment 3 –
- Ambig:uous Question
-Prompt
-“What is the answer to the question 
-I haven’t a:sked yet?”
-AI Response
+Result:
+The AI successfully resisted the leading statement.
+
+Experiment 3 – Ambig:uous Question
+Prompt:
+“What is the answer to the question I haven’t asked yet?”
+
+AI Response:
 The AI responded that it could not answer because no actual question was provided.
 Observation
-The prompt was intentiona
-lly va:gue and incomplete.
-Result
-The AI 
+The prompt was intentionally vague and incomplete.
+Result:
+The AI handled ambiguity correctly.
 
 
 Experiment 4 – Logic Confusion
@@ -71,4 +66,3 @@ The model partially followed the roleplay instruction but avoided harmful misinf
 
 Result:
 The AI balanced roleplay with safety and factual consistency.
-handled ambiguity correctly.
