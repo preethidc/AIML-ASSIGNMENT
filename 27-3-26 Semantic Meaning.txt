@@ -1,0 +1,14 @@
+1.Car – Automobile  *Very High
+Both words refer to the same type of vehicle. “Automobile” is a formal term for “car.”
+
+2.Teacher – Educator *High
+Both describe a person who teaches or provides education.
+
+3.Happy – Joyful  *High
+These words express similar positive emotions and feelings.
+
+4.Dog – Puppy *Medium
+A puppy is a young dog, so they are related but not exactly identical.
+
+5.Book – Pencil *Low
+Both are used in education, but their meanings are different and unrelated semantically.

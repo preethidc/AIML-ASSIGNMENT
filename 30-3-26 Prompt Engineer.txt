@@ -1,0 +1,15 @@
+
+Resume Prompt:
+weak: Create a Resume
+Strong:
+“Create a professional one-page resume for a Business student applying for a marketing internship. Include education, communication skills,Languages known, MS Excel knowledge, teamwork experience, and internship project details. Use a neat formal format.”
+
+Business Idea Prompt:
+Weak:Suggest me a business idea
+Strong:
+“Suggest a low-investment business ideas suitable for freshers in India. The idea should require less than ₹20,000 investment and easy to manage.”
+
+Study Plan Prompt:
+Weak:MAke a study plan
+Strong:
+“Create a 30-day study plan for a BBA student preparing for semester exams. Include 3 hours of daily study, revision time, weekend practice tests, and separate time for accounting, management, and business mathematics.”
